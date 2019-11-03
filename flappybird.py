@@ -33,3 +33,9 @@ def mainFunc():
         ifJump = checkSet(commandSet)
 
 mainFunc()
+
+'''
+noise reduce library
+BRIL
+noise reducing python
+'''
